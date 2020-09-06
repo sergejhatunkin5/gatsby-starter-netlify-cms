@@ -31,8 +31,8 @@ intro:
   heading: .
   description: .
 main:
-  heading: "Наши услуги:"
-  description: .
+  heading: О предоставляемых услугах в разделе Product
+  description: _______________________________________________________________________
   image1:
     alt: money
     image: /img/money.jpg
